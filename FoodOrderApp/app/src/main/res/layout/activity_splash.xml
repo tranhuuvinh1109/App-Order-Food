@@ -14,7 +14,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
 
-        android:src="@drawable/ic_fsplash"/>
+        android:src="@drawable/logo"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
