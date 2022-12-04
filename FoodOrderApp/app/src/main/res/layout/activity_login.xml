@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login">
+    <TextView
+        android:id="@+id/txt_sign_in"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Sign in"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        tools:layout_editor_absoluteX="50dp"></TextView>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/txt_sign_in"
+        android:layout_marginTop="20dp">
+
+        <EditText
+            android:id="@+id/edt_email1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/login_design"
+            android:drawableLeft="@drawable/ic_baseline_person_24"
+            android:drawablePadding="9dp"
+            android:hint="Email"
+            android:padding="12dp"
+            android:textColorHint="#767676"></EditText>
+
+        <EditText
+            android:id="@+id/edt_password1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/login_design"
+            android:drawableLeft="@drawable/ic_baseline_vpn_key_24"
+            android:drawablePadding="9dp"
+            android:hint="Password"
+            android:padding="12dp"
+            android:textColorHint="#767676"></EditText>
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginRight="30dp"
+            android:id="@+id/btn_sign_in"
+            android:background="@drawable/btn_design"
+            android:text="Sign in"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            app:backgroundTint="@color/dark_orange"></com.google.android.material.button.MaterialButton>
+
+        <TextView
+            android:layout_width="170dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="50dp"
+            android:background="@drawable/btn_login"
+            android:gravity="center"
+            android:text="Cancel"
+            android:textColor="#989898"
+            android:textSize="18dp"
+            android:textStyle="bold"></TextView>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Don't have an account? ">
+            </TextView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" Sign up "
+                android:textColor="@color/dark_orange"></TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:src="@drawable/img"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        tools:layout_editor_absoluteX="0dp"></ImageView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

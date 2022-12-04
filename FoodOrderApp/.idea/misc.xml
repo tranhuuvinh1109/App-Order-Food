@@ -4,10 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.111" />
+        <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/btn_design.xml" value="0.2525" />
+        <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/btn_login.xml" value="0.2525" />
         <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/button_bg.xml" value="0.111" />
         <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/ic_add_circle.xml" value="0.111" />
+        <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2525" />
+        <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/ic_baseline_vpn_key_24.xml" value="0.2525" />
         <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/ic_fsplash.xml" value="0.111" />
         <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.111" />
+        <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/drawable/login_design.xml" value="0.2525" />
+        <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/layout/activity_main.xml" value="0.14159067882472137" />
         <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/layout/activity_order_succeess.xml" value="0.14159067882472137" />
         <entry key="..\:/Users/Tran Huu Vinh/AndroidStudioProjects/FoodApp/FoodOrderApp/app/src/main/res/layout/activity_place_your_order.xml" value="0.2911458333333333" />

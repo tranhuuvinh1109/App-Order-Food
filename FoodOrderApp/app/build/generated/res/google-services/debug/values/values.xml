@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">19344356855-8vcdk65mekv1bpfp9tuje8qps4kvd3if.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://orderfood-5a6b6-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">19344356855</string>
+    <string name="google_api_key" translatable="false">AIzaSyDb3JQiY2APPJLX3wyA30NCoI_cfJqH08I</string>
+    <string name="google_app_id" translatable="false">1:19344356855:android:1125e14261174435b8eaf2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDb3JQiY2APPJLX3wyA30NCoI_cfJqH08I</string>
+    <string name="google_storage_bucket" translatable="false">orderfood-5a6b6.appspot.com</string>
+    <string name="project_id" translatable="false">orderfood-5a6b6</string>
+</resources>
