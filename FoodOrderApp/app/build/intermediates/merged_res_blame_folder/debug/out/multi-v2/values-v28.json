@@ -4,7 +4,7 @@
             "outputFile": "com.android.foodorderapp-mergeDebugResources-19:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Tran Huu Vinh\\.gradle\\caches\\transforms-3\\1f1665c516ca740d0ed2cf059dabfa63\\transformed\\material-1.2.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Tran Huu Vinh\\.gradle\\caches\\transforms-3\\8f1023aadb0c950bc1fa962c9d832743\\transformed\\material-1.2.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Tran Huu Vinh\\.gradle\\caches\\transforms-3\\f3eba1ec0808c3ccd620cb9ace2b9d60\\transformed\\appcompat-1.2.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\Tran Huu Vinh\\.gradle\\caches\\transforms-3\\d013e7e54ed0d97a19ac9d588c2a49a6\\transformed\\appcompat-1.2.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

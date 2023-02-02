@@ -16,53 +16,53 @@
       },
       "menus": [
         {
-          "name": "Thit Quay",
-          "price": 180000.00,
-          "url": "https://image-us.eva.vn/upload/4-2020/images/2020-10-30/image7-1604030358-858-width596height382.png"
+          "name": "Susi",
+          "price": 180000,
+          "url": "https://kyotosushi.vn/wp-content/uploads/2019/02/sushi-.jpg"
         },
         {
-          "name": "Hau Nuong",
-          "price": 285000.00,
-          "url": "http://cdn.tgdd.vn/Files/2022/07/09/1445859/cong-thuc-lam-hau-nuong-trung-cut-vua-ngon-vua-bo-lai-con-de-lam-202207090645300947.png"
+          "name": "Hamburger",
+          "price": 285000,
+          "url": "https://i.bloganchoi.com/bloganchoi.com/wp-content/uploads/2021/08/tu-lam-hamburger-696x389.jpg?fit=700%2C20000&quality=95&ssl=1"
         },
         {
-          "name": "Ngheu Hap",
-          "price": 80000.00,
-          "url": "https://www.unileverfoodsolutions.com.vn/dam/global-ufs/mcos/phvn/vietnam/calcmenu/recipes/VN-recipes/fish-&-other-seafood-dishes/thai-steamed-clams/main-header.jpg"
+          "name": "Beefsteak",
+          "price": 850000,
+          "url": "https://cdn.daynauan.info.vn/wp-content/uploads/2016/03/bo-bit-tet.jpg"
         },
         {
-          "name": "My Xao",
-          "price": 85000.00,
-          "url": "https://cdn3.ivivu.com/2020/06/mi-xao-hai-san-ivivu-1.jpg"
+          "name": "Spaghetti",
+          "price": 85000,
+          "url": "https://ghiennauan.info/wp-content/uploads/2022/05/cach-nau-mi-Spaghetti-1.jpg"
         },
         {
           "name": "Tom Hum",
           "price": 1550000.00,
-          "url": "http://cdn.tgdd.vn/Files/2020/02/28/1239091/cac-cach-hap-tom-hum-cuc-ky-ngon-ma-don-gian-tai-nha-202112310954112612.jpg"
+          "url": "https://chihaisan.com/wp-content/uploads/2020/10/20201005_092219.jpg"
         },
         {
           "name": "Cua Hoang De",
-          "price": 1750000.00,
+          "price": 1750000,
           "url": "https://haisan24h.com.vn/wp-content/uploads/2022/08/cua-hoang-de-gia-bao-nhieu-1kg-2.jpg"
         },
         {
           "name": "Bia Sai Gon",
-          "price": 12000.00,
+          "price": 12000,
           "url": "https://saigonspecial.com/wp-content/uploads/2020/07/b2-1024x675.jpg"
         },
         {
           "name": "Bia Tiger",
-          "price": 18000.00,
+          "price": 18000,
           "url": "https://grovefresh.vn/Data/Sites/1/Product/7731/5002888-bia-tiger.jpg"
         },
         {
           "name": "COOKIE AND BROWNIE ",
-          "price": 8.09,
+          "price": 15000,
           "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
         },
         {
           "name": "Ruou SoJu",
-          "price": 67000.00,
+          "price": 67000,
           "url": "https://anbvietnam.vn/wp-content/uploads/2020/12/ruou-soju-han-quoc.jpeg"
         }
       ]

@@ -35,8 +35,6 @@ public class Login extends AppCompatActivity {
                 new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
-                        Toast.makeText(Login.this, edt_email.getText().toString() , Toast.LENGTH_LONG).show();
-                        Toast.makeText(Login.this, edt_pass.getText().toString() , Toast.LENGTH_LONG).show();
                         login(edt_email.getText().toString(), edt_pass.getText().toString());
                     }
                 }

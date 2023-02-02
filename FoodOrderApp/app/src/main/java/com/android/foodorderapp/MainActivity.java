@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements RestaurantListAda
         setContentView(R.layout.activity_main);
 
         ActionBar actionBar = getSupportActionBar();
-        actionBar.setTitle("Restaurant List");
+        actionBar.setTitle("Food app");
 
         List<RestaurantModel> restaurantModelList =  getRestaurantData();
 
